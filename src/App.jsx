@@ -1,5 +1,4 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import "./app.css";
 import Home from "./components/Home";
 import IdeaVault from './components/projectPages/IdeaVault'
 import Ecommerce from "./components/projectPages/Ecommerce";
